@@ -1,0 +1,159 @@
+
+
+.resumeBody {
+	background-color:#3399FF; 
+	color:white;
+	height: 70%;
+	width: 70%;
+	margin: auto;
+	padding: 1%;
+	border-radius: 5px;
+	
+
+}
+
+
+.workexperience:hover {
+	background-color: white;
+	color: #3399FF;
+	border-radius: 5px;
+
+}
+
+
+.education:hover {
+	background-color: white;
+	color: #3399FF;
+	border-radius: 5px;
+
+}
+
+.skills:hover {
+	background-color: white;
+	color: #3399FF;
+	border-radius: 5px;
+
+}
+
+#header {
+text-align: center;
+
+}
+
+#name {
+width: 500px ;
+height: 55px; ;
+border: 2px solid white;
+text-align: center;
+margin: auto;
+font-size: 50px;
+font-weight: bold;
+border-radius: 5px;
+
+
+}
+a {
+
+	text-decoration: none;
+	color: #0000FF;
+}
+
+.introlinks:hover {
+	background-color: white;
+	color: #3399FF;
+	border-radius: 20px;
+	padding: 1%;
+	font-weight: bold;
+	font-size: 17px;
+	text-decoration: underline;
+}
+
+
+
+h4 {
+	text-decoration: underline;
+	font-size: 20px;
+	font-weight:bolder;
+
+
+}
+body {
+/* background-color: 0F0F0 ; */ 
+background-image: url('http://miamiprogramming.com/images/back2.jpg') ;
+background-size: cover;
+}
+
+h5 {
+	font-style: italic;
+	font-size: 16px;
+	font-weight: inherit;
+
+}
+
+
+hr {
+	width: 95%;
+	color: white
+	
+}
+
+
+ .nav { 
+
+			height: 50px;
+			width: 71.13% ;
+			position: fixed;
+			margin-left: 13.85%;
+			margin-top: -1%;
+			top:  0% 75%;
+			/* what does top left do.... */
+			background: #335499;
+			border-radius: 5px;
+
+
+	  }
+
+.nav a {
+			display: block;
+			float: left;
+			color: white;
+			padding: 0 8.162em;
+			line-height: 50px;
+			border-left: 1px solid white;
+			border-right: 1px solid white;
+			border-radius: 1px;
+
+	   }
+	
+.navlinks:hover {
+			
+			background: #3366FF;
+			border-radius: 5px;
+			text-decoration: underline;
+
+
+		}	
+
+ #footer { 
+
+			height: 50px;
+			width: 71.12% ;
+			position: fixed;
+			bottom: 0%;
+			left: 14.35%;
+			background: #335499;
+			border-radius: 1px;
+			color: white;
+			border-left: 1px solid white;
+			border-right: 1px solid white;
+			margin: auto;			
+			
+			}
+
+
+#footer p {
+		margin-left: 36px;
+
+}
+			
+		
